@@ -94,7 +94,7 @@ namespace CelebrityQuiz
             while (options.Count < 4)
             {
                 var wrongActor = await tmdbService.GetRandomActorAsync();
-                if (wrongActor != null && !options.Contains(wrongActor.Name))
+                if (wrongActor != null && !options.Contains(wrongActor.Name) && correctActor.Gender.Equals(wrongActor.Gender))
                 {
                     options.Add(wrongActor.Name);
                 }
