@@ -197,11 +197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\HCI\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz.csproj",
       "projectName": "CelebrityQuiz",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\HCI\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\HCI\\CelebrityQuiz\\CelebrityQuiz\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

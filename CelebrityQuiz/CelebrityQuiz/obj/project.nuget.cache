@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t27XnSQoaU4odo8WPkWbQvO2i68xo4NmL+vZVnRuWJlyDHHgNqMZxWL02lWkQHTuzYP0HDEsqxVZaw6pwJCLig==",
+  "dgSpecHash": "Ust07YOwHIcdH+ke5i0Ag0hl3zy3vArviq3ZeQ67O8AivcAWLIFI9pCDiCe4ORlwJZVNDOBSSkbmRZ3kBMeB+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\HCI\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz\\CelebrityQuiz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
