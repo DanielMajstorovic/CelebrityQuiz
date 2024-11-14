@@ -56,13 +56,6 @@
                                 </ToggleButton.Content>
                             </ToggleButton>
                             
-                            <materialDesign:PopupBox PlacementMode="BottomAndAlignRightEdges">
-                                <ListBox>
-                                    <ListBoxItem Content="Reset Score"/>
-                                    <ListBoxItem Content="About"/>
-                                    <ListBoxItem Content="Exit"/>
-                                </ListBox>
-                            </materialDesign:PopupBox>
                         </StackPanel>
                         
                         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
